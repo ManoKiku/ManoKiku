@@ -1,12 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, everyone call me Mano Kiku!</h1>
-<h3 align="center">A ack-end and software engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manokiku" alt="manokiku" /></a> </p>
+<h3 align="center">A back-end and software engineer</h3>
 
 - I’m currently learning **PHP, Laravel, MySql**
-
 - How to reach me **nunununununununununuunu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
