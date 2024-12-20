@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, everyone call me Mano Kiku!</h1>
 <h3 align="center">A back-end and software engineer</h3>
 
