@@ -40,13 +40,13 @@
 ---
 
 ### 📊 **GitHub stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manokiku&layout=compact&theme=onedark&card_width=430)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manokiku&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&line_height=20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manokiku&show_icons=true&theme=onedark&include_all_commits=true&line_height=20&card_width=430)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manokiku&layout=compact&theme=onedark&card_width=350)
 
 ---
 
 ### 🏆 **Achievements**
-[![trophy](https://github-profile-trophy.vercel.app/?username=manokiku&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manokiku&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-– **Martin Fowler**
+*"Skibidi ligma, I can't fent"*  
+– **George Droid**
