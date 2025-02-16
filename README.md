@@ -4,14 +4,9 @@
 
 ---
 
-### 🔧 **Technologies & Tools**  Lan
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-
 ### 🚀 **What I’m Up To**
 - 🔭 Currently learning **PHP, Laravel, MySQL** – trying to build REST APIs and web apps.
-- 💡 Know about SOLID principles and design patterns (yes, I’m working on making my code less "creative" 😉).
+- 💡 Know about SOLID principles and design patterns (yes, but I don't use them often 😉).
 - 🖥️ Passionate about low-level systems and clean API design.
 - 🎮 Casual gamer – [Add me on Steam](https://steamcommunity.com/id/ManoKiku)!
 
@@ -25,6 +20,7 @@
 
 ### 🛠️ **Tech Stack**
 **Languages & Frameworks**  
+![PHP](https://shields.io/badge/-PHP-3776AB?logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
