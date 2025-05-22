@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 **What I’m Up To**
-- 🔭 Currently learning **PHP, Laravel, MySQL** – trying to build REST APIs and web apps.
+- 🔭 Currently learning **C#, ASP .NET Framework, Databases** – trying to build REST APIs and web apps.
 - 💡 Know about SOLID principles and design patterns (yes, but I don't use them often 😉).
 - 🖥️ Passionate about low-level systems and clean API design.
 - 🎮 Casual gamer – [Add me on Steam](https://steamcommunity.com/id/ManoKiku)!
@@ -13,25 +13,28 @@
 ---
 
 ### 📬 **Connect With Me**
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/549927558339100674)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nunununununununununuunu@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/549927558339100674)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunununununununununuunu@gmail.com)
 
 ---
 
 ### 🛠️ **Tech Stack**
 **Languages & Frameworks**  
-![PHP](https://shields.io/badge/-PHP-3776AB?logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
+![EF](https://img.shields.io/badge/EF-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 
