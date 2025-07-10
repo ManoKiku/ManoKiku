@@ -6,7 +6,7 @@
 
 ### 🚀 **What I’m Up To**
 - 🔭 Currently learning **C#, ASP .NET Framework, Databases** – trying to build REST APIs and web apps.
-- 💡 Know about SOLID principles and design patterns (yes, but I don't use them often 😉).
+- 💡 Know about SOLID principles and design patterns (yes, but I don't use all of them often 😉).
 - 🖥️ Passionate about low-level systems and clean API design.
 - 🎮 Casual gamer – [Add me on Steam](https://steamcommunity.com/id/ManoKiku)!
 
@@ -14,6 +14,7 @@
 
 ### 📬 **Connect With Me**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/549927558339100674)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ManoKiku)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunununununununununuunu@gmail.com)
 
 ---
